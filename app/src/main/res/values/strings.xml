@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CargoTransportAndroid</string>
+    <string name="main_login_text">Login</string>
+    <string name="main_username_field_text">Username</string>
+    <string name="main_password_field_text">Password</string>
+    <string name="all_routes_text_view">All Routes</string>
+    <string name="my_routes_text_view">My Routes</string>
+    <string name="save_text">Save</string>
+    <string name="delete">Delete</string>
+    <string name="trucks">Trucks</string>
+    <string name="routes">Routes</string>
+</resources>
